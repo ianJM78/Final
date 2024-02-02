@@ -1,0 +1,21 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp",
+			"string_view": "cpp",
+			"istream": "cpp",
+			"cstring": "cpp",
+			"algorithm": "cpp",
+			"fstream": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"random": "cpp"
+		}
+	}
+}

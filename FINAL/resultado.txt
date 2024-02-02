@@ -1,0 +1,5 @@
+RESULTADO DEL PROCESO
+=====================
+Total vacunados: 18210
+Total no vacunados: 920
+Promedio: 95 %
